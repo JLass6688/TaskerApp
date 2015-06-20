@@ -1,12 +1,19 @@
-# Tasker
+## Tasker
 
-The *MEAN* way to keep yourself on task!
+#####The *MEAN* way to keep yourself on task!
+##
+![Screen Shot](/servus.gif)
+##
+###Technologies
 
-Tasker is built using the following technologies:
-- MongoDB
-- Express.js
-- Angular.js
-- Node.js
+#####Front End
+	1) Angular.js
+#####Front End
+	1) MongoDB
+	#####
+	2) Express.js
+	#####
+	3) Node.js
 
 ##API Access
 To access tasks, please use the *Tasker* RESTFul API!
