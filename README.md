@@ -2,7 +2,7 @@
 
 #####The *MEAN* way to keep yourself on task!
 ##
-![Screen Shot](/servus.gif)
+![Screen Shot](/screenshot.png)
 ##
 ###Technologies
 
