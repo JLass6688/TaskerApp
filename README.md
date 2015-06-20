@@ -2,7 +2,7 @@
 
 #####The *MEAN* way to keep yourself on task!
 ##
-![Screen Shot](/screenshot.png)
+![Screen Shot](/tasker.png)
 ##
 ###Technologies
 
