@@ -6,16 +6,16 @@
 ##
 ###Technologies
 
-#####Front End
+#####Front-End
 	1) Angular.js
-#####Front End
+#####Back-End
 	1) MongoDB
-	#####
+
 	2) Express.js
-	#####
+
 	3) Node.js
 
-##API Access
+###API Access
 To access tasks, please use the *Tasker* RESTFul API!
 
 ```bash
